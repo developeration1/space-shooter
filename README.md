@@ -6,6 +6,6 @@ This repository includes:
 * .exe for Windows
 * .app for MacOS
 
-Made in Unity 2020.1.4f1
+Made in Unity 2019.2.2f1
 
 _by ARS aka. The Developer_
